@@ -14,4 +14,3 @@ function reverseArray(array) {
 }
 
 console.log(reverseArray(numbers));
-x
